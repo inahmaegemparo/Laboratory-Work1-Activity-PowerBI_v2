@@ -42,6 +42,7 @@
 
 ## Task 2: Add Slicer 
 <img width="756" height="592" alt="Screenshot 2026-02-19 080747" src="https://github.com/user-attachments/assets/b5954d62-cbf7-447a-bb15-f92349f69027" />
+
 ## Task 3: Sort Sales 
 <img width="740" height="605" alt="Screenshot 2026-02-19 080711" src="https://github.com/user-attachments/assets/059dc81f-fa35-45bd-a95d-b148a5619f5c" />
 
