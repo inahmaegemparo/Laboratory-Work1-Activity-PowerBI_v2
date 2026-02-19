@@ -24,7 +24,7 @@
 # PART 3: Creating Auto-Generated Visuals 
 
 ## Step 1: Quick Visualization 
-<img width="564" height="480" alt="Screenshot 2026-02-19 080520" src="https://github.com/user-attachments/assets/696c2f20-1e3c-4aff-9ccc-4be148bf1769" />
+<img width="506" height="480" alt="Screenshot 2026-02-19 080436" src="https://github.com/user-attachments/assets/a23030c3-edb2-4338-882c-0fdfb5840a6b" />
 
 ## Step 2: Create a Sales by Region Chart 
 <img width="564" height="480" alt="Screenshot 2026-02-19 080520" src="https://github.com/user-attachments/assets/0d9d7891-9d31-45c7-ba50-61c3a3656016" />
