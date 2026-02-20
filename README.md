@@ -48,7 +48,20 @@
 
 # Insight Summary
 
+After loading the sales data and creating the visualizations in Power BI, I have identified the following five key insights:
 
+Electronics is our "Powerhouse" Category: When I created the Pie Chart, it was clear that Electronics dominates the sales. It isn't a balanced split at all; people are buying tech products way more than Furniture or Office Supplies. This shows where the company is making most of its money.
+
+The West is Winning, the North is Struggling: By looking at the Clustered Column Chart, the West region stands out as the top performer. On the flip side, the North region has the lowest sales. This tells me that our current marketing or sales team is much more successful in the West than in the North.
+
+Alarming Downward Trend for 2025: The Line Chart was the most surprising visual. Even though total sales look okay on the Card visual with 220,000, the trend shows a sharp drop moving into 2025. This means that while we did well in the past, something is going wrong lately and sales are decreasing.
+
+Office Supplies Need Help: Out of all the categories, Office Supplies performed the worst. Since the distribution isn't balanced, the business is "top-heavy," meaning if Electronics sales ever fail, the whole company will be in trouble because Office Supplies aren't selling enough to back them up.
+
+Interactive Filtering Changes the Story: Using the Slicer tool showed me that the data is very different depending on the region. For example, the "Total Sales" card changes completely when you filter by region. This proves that a single "Total" number doesn't tell the whole story—you have to look at the specific regions to see who is actually contributing to that 220,000.
+
+My Final Recommendation
+Based on the data, I suggest the company investigate why sales are dropping in 2025 immediately. While they should keep supporting the West, they need to launch a special promotion or discount campaign in the North to try and bring those low numbers up to match the rest of the regions.
 
 
 
