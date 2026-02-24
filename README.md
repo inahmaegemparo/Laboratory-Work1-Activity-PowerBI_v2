@@ -50,35 +50,51 @@
 
 ## Step 3: Sales by Category
 #### This screenshot shows a Pie Chart representing sales distribution across different product categories, highlighting the dominant categories.
+
 <img width="805" height="360" alt="Screenshot 2026-02-19 080546" src="https://github.com/user-attachments/assets/eb4b4ffb-dbae-457e-81df-af60b7b1dce4" />
 
 #### Question: 
 ● Which category dominates? The electronics category dominates the whole pie chart.
 ● Is the distribution balanced? No, distribution is not balanced.
 
-## Step 4: Sales Over Time 
+
+## Step 4: Sales Over Time
+
 #### This screenshot shows a Line Chart illustrating the trend of sales over time, making it easy to identify growth or decline patterns.
 
 <img width="647" height="508" alt="Screenshot 2026-02-19 080603" src="https://github.com/user-attachments/assets/69bcd0bf-8029-4c8d-aa53-90293276dbc7" />
+
 #### Question: 
 ● Is there growth? No, because the sales are decreasing in 2025.
+
 ● Any noticeable trend? Yes, there is a clear downward trend.
 
 PART 4: Basic Data Insight Interpretation
+
 #### Question: 
 ● Which region contributes most revenue? The west region contributes most revenue. 
+
 ● Which product category performs best? The electronics perform best. 
+
 ● Are sales consistent across dates? No. Sales are not consistent as  they drop sharply from   2024 to 2025, showing a significant decline.
+
 ● What business recommendation can you suggest? Investigate the drop, boost high-performing categories, and improve lower-performing regions.
 
 ## LABORATORY QUESTIONS 
+
 ### Part A – Technical Questions
-1. What are the five columns in the dataset? Date, Product,Category, Region, and Sales
-2. What data type is assigned to the “Sales” column? The data type that was assigned to the “Sales” column is the decimal number.
+1. What are the five columns in the dataset?
+	Date, Product,Category, Region, and Sales
+
+2. What data type is assigned to the “Sales” column? 
+	The data type that was assigned to the “Sales” column is the decimal number.
+
 3. Which Power BI view allows you to see raw data?  
 	The table view allows me to see raw data.
+	
 4.What chart type is best for showing trends over time? 
 	The best chart type for showing trends over time is the line chart.
+	
 5. What aggregation is automatically applied to Sales? 
 	The aggregation that was automatically applied to Sales is sum.
 
@@ -86,12 +102,16 @@ PART 4: Basic Data Insight Interpretation
 
 6. Which region has the highest total sales?
  West has the highest total sales.
+ 
 7. Which category has the lowest performance? 
-Office supplies have the lowest performance.
+	Office supplies have the lowest performance.
+	
 8. Are sales increasing, decreasing, or stable? 
-Sales are decreasing.
+	Sales are decreasing.
+	
 9. If you were a manager, which region would you prioritize? 
        If I were a manager I would prioritize the north  region since it has the lowest sales. Focusing there would help improve the overall sales.
+	   
 10. Provide one actionable recommendation based on the data. 
       Launch a targeted marketing campaign like promotions or discounts  in the North region to boost its lower sales and improve overall revenue.
 
@@ -110,13 +130,18 @@ Sales are decreasing.
 #### Question: 
 ● What happens to other visuals when you click a region? 
 	The visuals change when I click a specific region, it is like filtering regions.
-● Why is filtering important in BI? To filter out the different sales visualizations of regions.
+	
+● Why is filtering important in BI? 
+	To filter out the different sales visualizations of regions.
 
-## Task 3: Sort Sales 
+## Task 3: Sort Sales
+
 <img width="740" height="605" alt="Screenshot 2026-02-19 080711" src="https://github.com/user-attachments/assets/059dc81f-fa35-45bd-a95d-b148a5619f5c" />
 
+	
 #### Question: 
 ● Does sorting improve readability? Yes sorting improve readability
+
 ● Why? Because it sort the sales from highest to lowest
 
 
