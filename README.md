@@ -3,7 +3,9 @@
 
 # PART 1: Launching Power BI & Loading Data
 
-## Step 1: Open Power BI Desktop 
+## Step 1: Open Power BI Desktop
+ ### This screenshot shows the Power BI Desktop startup screen after launching the application, ready for data import and analysis.
+
 <img width="1920" height="649" alt="image" src="https://github.com/user-attachments/assets/808ce3d9-fd5c-407c-baf9-c1ccd7bf2067" />
 
 ## Step 2: Load the Dataset 
