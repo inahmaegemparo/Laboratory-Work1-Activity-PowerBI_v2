@@ -1,5 +1,4 @@
 # IS107 Laboratory-Work1- Introduction to Business Intelligence & PowerBI
- ### This screenshot shows the Power BI Desktop startup screen after launching the application, ready for data import and analysis.
 
 # PART 1: Launching Power BI & Loading Data
 
