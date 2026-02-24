@@ -13,7 +13,8 @@
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/af83531b-c13a-4dd7-bd09-f3b98122a597" />
 
-## Step 3: Verify Data in Data View 
+## Step 3: Verify Data in Data View
+#### This screenshot shows the dataset loaded in Power BI's Data View, where all columns are visible and data types for each column can be verified and adjusted if needed.
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/6adc308e-93f7-4046-8363-fbe022822556" />
 
 # PART 2: Exploring the Interface 
