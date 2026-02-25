@@ -44,6 +44,7 @@
 #### This screenshot shows a Clustered Column Chart displaying total sales per region, helping to compare regional performance visually.
 
 <img width="564" height="480" alt="Screenshot 2026-02-19 080520" src="https://github.com/user-attachments/assets/0d9d7891-9d31-45c7-ba50-61c3a3656016" />
+
 #### Question: 
 ● Which region has the highest sales? The west region has the highest sales.
 
@@ -54,7 +55,9 @@
 <img width="805" height="360" alt="Screenshot 2026-02-19 080546" src="https://github.com/user-attachments/assets/eb4b4ffb-dbae-457e-81df-af60b7b1dce4" />
 
 #### Question: 
+
 ● Which category dominates? The electronics category dominates the whole pie chart.
+
 ● Is the distribution balanced? No, distribution is not balanced.
 
 
@@ -72,6 +75,7 @@
 PART 4: Basic Data Insight Interpretation
 
 #### Question: 
+
 ● Which region contributes most revenue? The west region contributes most revenue. 
 
 ● Which product category performs best? The electronics perform best. 
