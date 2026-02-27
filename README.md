@@ -1,7 +1,8 @@
 # IS107 Laboratory-Work1- Introduction to Business Intelligence & PowerBI
 
 # PDF DOCUMENTATION
-[CLICK HERE TO VIEW PDF](file:///C:/Users/admin/Downloads/Gemparo_InahMae_Power%20BI%20Laboratory%20Work%20Activity-1.pdf)
+[CLICK HERE TO VIEW PDF](file:///C:/Users/admin/Downloads/Gemparo_InahMae_Power%20BI%20Laboratory%20Work%20Activity-1.pdf).
+
 # PART 1: Launching Power BI & Loading Data
 
 ## Step 1: Open Power BI Desktop
