@@ -158,6 +158,15 @@ PART 4: Basic Data Insight Interpretation
 
 <img width="740" height="605" alt="Screenshot 2026-02-19 080711" src="https://github.com/user-attachments/assets/059dc81f-fa35-45bd-a95d-b148a5619f5c" />
 
+## Task 4: Identify Outliers 
+
+● Which region is significantly higher or lower? 
+	West is the significantly higher region while the North region is the lowest
+
+● What might explain that difference? 
+	The west region highest sum of sales and the north region has the lowest.
+
+
 	
 #### Question: 
 ● Does sorting improve readability? Yes sorting improve readability
@@ -168,7 +177,7 @@ PART 4: Basic Data Insight Interpretation
 
 
 
-# ____________________________________________________________________________________________________________________________________________________________________________________
+# _________________________________________________________________________________________________________________________________________
 
 
 # Insight Summary
