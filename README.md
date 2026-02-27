@@ -46,6 +46,16 @@
 
 <img width="506" height="480" alt="Screenshot 2026-02-19 080436" src="https://github.com/user-attachments/assets/a23030c3-edb2-4338-882c-0fdfb5840a6b" />
 
+Question: 
+
+● What type of chart was created?
+ A clustered column chart was created.
+
+● What does it show? 
+It shows the sum of sales on the y-axis, summarizing over all total sales.
+
+
+
 ## Step 2: Create a Sales by Region Chart 
 #### This screenshot shows a Clustered Column Chart displaying total sales per region, helping to compare regional performance visually.
 
