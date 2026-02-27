@@ -1,7 +1,7 @@
 # IS107 Laboratory-Work1- Introduction to Business Intelligence & PowerBI
 
 # PDF DOCUMENTATION
-[CLICK HERE TO VIEW PDF](https://drive.google.com/file/d/1y4S-XFI-xJBc6SuMbmgewPtii4fkmZwW/view?usp=sharing).
+[CLICK HERE TO VIEW PDF](https://drive.google.com/file/d/1OPJDeYslrm1cVAYW0o8pho_tKK_tBjP4/view?usp=sharing).
 
 # PART 1: Launching Power BI & Loading Data
 
